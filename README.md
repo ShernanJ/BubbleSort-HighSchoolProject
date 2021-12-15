@@ -1,5 +1,3 @@
-# BubbleSort-HighSchoolProject
-
 <h1 align="center">
   <img src="https://img.shields.io/badge/Outdated%20-%23ED2542.svg?style=flat" alt="JavaFX" />
   Bubble Sort Demo • HS Project
