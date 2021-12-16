@@ -8,4 +8,4 @@
   This application was built in high school to demonstrate my skills as a Java developer and implement an Bubble Sort algortihm.
 </p>
 
-<h3 align="center">⚠️ <ins>This project does not demonstrate my current skills as this was created over 3 years ago!</ins> ⚠️</h3>
+<h4 align="center">⚠️ This project does not demonstrate my current skills as this was created over 3 years ago! ⚠️</h4>
